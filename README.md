@@ -1,5 +1,5 @@
 # simplegrid
-LESS simple grid
+LESS simple grid optmised for PHP compilation (no js)
 
 ###  Usage:
 
